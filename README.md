@@ -3,43 +3,15 @@
 ## Bem vido ao meu GitHub 👋
 
 ## Tecnologias e Ferramentas que uso no dia - dia 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" width="40" height="40" />
-
-## Estou aprendendo 🧑‍💻​
-
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-plain.svg" width="40" height="40" />       
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-plain.svg" width="40" height="40" /> 
+   
 # Sobre mim
 
-👋 Olá! Eu sou um **Desenvolvedor em Ascensão** com experiência em **Python** 🐍 e **JavaScript** 🌐. Tenho uma paixão enorme por **Tecnologia em Geral** 💻 e estou sempre buscando **avançar no universo da IA** 🤖. Adoro contribuir para **projetos de código aberto** 🌟 e aprender coisas novas todos os dias.
+👋 Desenvolvedor com sólida experiência em desenvolvimento de aplicações web. Hábil em tecnologias front-end como HTML, CSS, JavaScript e frameworks como React. Experiência em back-end com Node.js, Django , Python e bancos de dados SQL e NoSQL. Forte conhecimento em práticas de DevOps e computação em nuvem (AWS). Comprometido com a entrega de soluções eficientes e escaláveis, focando na experiência do usuário e na
 
 ## Projetos
 
 Estou com alguns projetos em Anadamento. Em breve mais novidades! 
-
-### [Gerenciador de Tarefas]
-
-Um simples gerenciador de tarefas
-
-Funcionalidades
-
-- Adicionar novas tarefas
-- Remover tarefas
-- Marcar tarefas como concluídas
-- Filtrar tarefas por todas, pendentes e concluídas
-- Persistência de dados no `localStorage`
-- **Tecnologias utilizadas:** [HTML, CSS e JavaScript]
-- **Link do repositório:** [Em breve]
-
-### [Gerenciador de Despesas]
-
-Funcionalidades
-- Adicionar Despesas: Permita que os usuários adicionem novas despesas.
-- Remover Despesas: Permita que os usuários removam despesas.
-- Listar Despesas: Exiba todas as despesas.
-- Filtrar Despesas por Categoria: Filtre as despesas por diferentes categorias.
-- Gerar Relatórios: Gere relatórios de despesas por período.
-- **Tecnologias utilizadas:** [Pyhton]
-- **Link do repositório:** [Em breve]
 
 ## Conecte-se comigo
 
