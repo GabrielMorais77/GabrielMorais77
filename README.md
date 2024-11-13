@@ -7,7 +7,7 @@
    
 # Sobre mim
 
-👋 Desenvolvedor com sólida experiência em desenvolvimento de aplicações web. Hábil em tecnologias front-end como HTML, CSS, JavaScript e frameworks como React. Experiência em back-end com Node.js, Django , Python e bancos de dados SQL e NoSQL. Forte conhecimento em práticas de DevOps e computação em nuvem (AWS). Comprometido com a entrega de soluções eficientes e escaláveis.
+👋 Desenvolvedor com sólida experiência em desenvolvimento de aplicações web. Hábil em tecnologias front-end como HTML, CSS, JavaScript e frameworks como React. Experiência em back-end com Node.js, Django , Python , PHP e bancos de dados SQL e NoSQL. Forte conhecimento em práticas de DevOps e computação em nuvem (AWS). Comprometido com a entrega de soluções eficientes e escaláveis.
 
 ## Projetos
 
